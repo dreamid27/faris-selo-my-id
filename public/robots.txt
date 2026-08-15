@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
+# All crawlers welcome, including AI/LLM agents.
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://faris.selo.my.id/sitemap.xml

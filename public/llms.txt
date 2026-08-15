@@ -1,0 +1,44 @@
+# Muhammad Al Faris — Full Stack Engineer
+
+> Personal portfolio of Muhammad Al Faris (Faris), a full stack engineer based
+> in Bandung, Indonesia, with nine years of experience shipping products at
+> Tokopedia, eFishery, and Delegasi (YC S22).
+
+## About
+
+- Name: Muhammad Al Faris (goes by Faris)
+- Role: Full Stack Engineer
+- Location: Bandung, Indonesia (GMT+7)
+- Email: muh.alfaris@gmail.com
+- GitHub: https://github.com/dreamid27
+- LinkedIn: https://www.linkedin.com/in/muhammad-alfaris/
+
+## Experience
+
+- Delegasi (YC S22) — Product Engineer, Oct 2022 – May 2025. AI-powered
+  finance and accounting assistant for Indonesian businesses.
+- eFishery — Product Engineer, Mar 2021 – Dec 2023. Indonesia's largest
+  aquaculture-tech company.
+- Tokopedia — Software Engineer, Jun 2020 – Mar 2021. One of Southeast Asia's
+  largest e-commerce platforms.
+- Bridestory & Parentstory — Frontend Engineer, Aug 2019 – Jun 2020.
+- Nextvibes — Web Programmer, Feb 2017 – May 2019.
+
+## Skills
+
+Frontend: React, TypeScript, Next.js, TanStack, Tailwind CSS.
+Backend: Node.js, NestJS, Go, Rust, PostgreSQL.
+AI & tooling: Claude Code skills, agent frameworks, Tauri, developer tooling.
+
+## Services
+
+Available for hire on a monthly retainer (USD 1,000/month or ~Rp 10 juta):
+one product at a time, full stack from schema to pixel, weekly shipped
+increments, async-first communication.
+
+## Notable projects
+
+- pos-device-shell: local printer/scale/RFID service for POS hardware (Rust, Tauri)
+- oasis: composable AI agent framework for Go
+- frontend-slides: Claude Code skill for animation-rich HTML presentations
+- awesome-claude-skills: curated list of Claude Skills and resources
